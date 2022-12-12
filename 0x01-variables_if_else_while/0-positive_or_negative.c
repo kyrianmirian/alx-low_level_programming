@@ -4,10 +4,10 @@
 
 /* more headers goes there */
 /**
- * main - generate a random number and print it 
+ * main - generate a random number and print it
  * rand - does something
  * RAND_MAX - does something
- * printf - print the message 
+ * printf - print the message
  *
  * Return: return the status code
  */
