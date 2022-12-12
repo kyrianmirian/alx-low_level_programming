@@ -5,7 +5,7 @@
 *
 * Return: Always 0 (Sucess)
 */
-int main(voi)
+int main(void)
 {
 int num = 0;
 
