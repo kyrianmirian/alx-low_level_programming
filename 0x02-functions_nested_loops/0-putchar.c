@@ -8,7 +8,7 @@
 
 int main(void)
 {
-print_message();
+print_sign(_putchar);
 
 return (0);
 
