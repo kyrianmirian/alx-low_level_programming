@@ -16,8 +16,8 @@ while (s[c] != '\0')
 c++;
 }
 
-for (c -= 1; c--)
-}
+for (c -= 1; c >= 0; c--)
+{
 _putchar(s[c]);
 }
 
