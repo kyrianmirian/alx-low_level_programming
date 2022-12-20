@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 #include <stdio.h>
 
 /**
@@ -21,5 +21,6 @@ if (j != (n - 1))
 printf(", ");
 }
 }
+
 printf("\n");
 }
