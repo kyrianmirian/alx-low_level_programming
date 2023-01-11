@@ -23,7 +23,7 @@ argc /= 10;
 
 while (num > 10)
 {
-putchar((num / digitsWeight) + '0');
+putchar((num / digitsWeight) +'0');
 num %= digitsWeight;
 digitsWeight /= 10;
 }
